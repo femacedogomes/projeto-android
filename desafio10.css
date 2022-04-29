@@ -38,7 +38,7 @@ header > h1{
     font-weight: normal;
     text-align: center;
     margin-top: 0%;
-    padding: 70px 30px 0px 30px;
+    padding: 20px 30px 0px 20px;
     font-family: var(--fonte1);
     color: white;
 }
@@ -47,6 +47,7 @@ header > p {
     font-family: var(--fonte0);
     text-align: center;
     margin-top: -15px;
+    margin-bottom: 0px;
     padding: 0px;
 }
 body{
