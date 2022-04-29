@@ -56,9 +56,9 @@ body{
     color: var(--cor0);
 }
 #menu {
-    padding-top: 0px;
+    padding-top: -10px;
     padding-bottom: 0px;
-    margin-top: -20px;
+    margin-top: -30px;
     margin-bottom: 0px;
     text-align: start;
     list-style-type: none;
@@ -87,7 +87,7 @@ main{
     display: block;
     background-color: white;
     box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.438);
-    margin: 1px auto;
+    margin: 12px auto;
 }
 main img {
     width: 100%;
